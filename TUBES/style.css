@@ -1,0 +1,33 @@
+.menu{
+	background-color: #91EFFF;
+	font-size: 40px;
+	text-align: center;
+}
+.form{
+	margin-left: 30%;
+	margin-right: 30%;
+	font-size: 30px;
+	border: solid white;
+	background-color: white;
+	padding: 10px;
+	border-radius: 10px;
+}
+.masukan{
+	border: none;
+	border-bottom: 3px solid #ddd;
+	font-size: 30px;
+	margin-bottom: 15px;
+	width: 250px;
+}
+.button1 {
+
+	border: 1px solid #91EFFF;        /* border: tebal[px] tipe[solid,dashed,dotted] warna[#hex, rgb()]; */
+	background-color: #91EFFF;        /* ubah warna background */
+	color: black;                   /* ubah warna font */
+	font-size: 20px;                  /* ubah ukuran font */
+	padding: 0.5em 1em 0.5em 1em;     /* padding: top right bottom left; */
+	margin-left: 300%;
+	margin-top: 5%;
+	margin-bottom: 10%;
+	cursor: pointer;
+}

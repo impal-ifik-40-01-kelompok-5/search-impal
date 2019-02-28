@@ -1,0 +1,24 @@
+.menu{
+	background-color: #91EFFF;
+	font-size: 25px;
+	text-align: center;
+	display: block;
+}
+.tabel{
+	text-align: left;
+	background-color: white;
+	margin-top: 50px;
+	margin-left: 10%;
+}
+.button1 {
+
+	border: 1px solid white;        /* border: tebal[px] tipe[solid,dashed,dotted] warna[#hex, rgb()]; */
+	background-color: white;        /* ubah warna background */
+	color: black;                   /* ubah warna font */
+	font-size: 40px;                  /* ubah ukuran font */
+	padding: 0.5em 1em 0.5em 1em;     /* padding: top right bottom left; */
+	
+	margin-top: 5%;
+	margin-bottom: 10%;
+	cursor: pointer;
+}

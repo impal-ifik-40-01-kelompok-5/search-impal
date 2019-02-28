@@ -1,0 +1,44 @@
+.menu{
+	background-color: #91EFFF;
+	font-size: 40px;
+	text-align: center;
+}
+.form{
+	margin-left: 20%;
+	margin-right: 20%;
+	font-size: 50px;
+	border: solid white;
+	background-color: white;
+	padding: 10px;
+	border-radius: 10px;
+}
+.masukan{
+	font-size: 30px;
+	margin-bottom: 15px;
+	width: 300px;
+}
+.button1 {
+
+	border: 1px solid #91EFFF;        /* border: tebal[px] tipe[solid,dashed,dotted] warna[#hex, rgb()]; */
+	background-color: #91EFFF;        /* ubah warna background */
+	color: black;                   /* ubah warna font */
+	font-size: 40px;                  /* ubah ukuran font */
+	padding: 0.5em 1em 0.5em 1em;     /* padding: top right bottom left; */
+	margin-left: 150%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	cursor: pointer;
+	margin-right: 50px;
+}
+.button2 {
+
+	border: 1px solid white;        /* border: tebal[px] tipe[solid,dashed,dotted] warna[#hex, rgb()]; */
+	background-color: white;        /* ubah warna background */
+	color: black;                   /* ubah warna font */
+	font-size: 40px;                  /* ubah ukuran font */
+	padding: 0.5em 1em 0.5em 1em;     /* padding: top right bottom left; */
+	margin-left: 40%;
+	margin-top: 5%;
+	margin-bottom: 10%;
+	cursor: pointer;
+}
